@@ -18,6 +18,7 @@ class Player8(Player):
     remember something, and return an Action choosing today's depth.
 
     Do not keep per-jellyfish state on `self`: memory is the only memory.
+
     """
 
     def __init__(
